@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba para el modulo 2
+esto es una prueba para el modulo desde gitbash para la pc y subirlo a la nube
